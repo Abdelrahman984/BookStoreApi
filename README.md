@@ -64,7 +64,7 @@ dotnet run --project CleanArchitecture.Api
 
 ## Deployment
 
-* Hosted on Monster Asp.Net: [BookStore API](https://bookrstoreapi.runasp.net)
+* Hosted on Monster Asp.Net: [BookStore API](https://bookrstoreapi.runasp.net/swagger/index.html)
 * Ensure frontend `VITE_API_URL` points to this URL.
 
 ## Contributing
